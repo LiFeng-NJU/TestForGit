@@ -1,2 +1,3 @@
 i think git is confuse
 also i think git
+Git has a mutable index called stage.
